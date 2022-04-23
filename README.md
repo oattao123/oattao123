@@ -11,10 +11,6 @@
 <a href="https://twitter.com/oattao123321">
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://open.spotify.com/playlist/0sVOBjiAxjTj1MzauTMjVJ?si=83b088c828044dc3">
-  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ASpotify_App_Logo.svg&psig=AOvVaw1cd2F6PhVCymTIa2w7a_qS&ust=1650781127487000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNCqyJbFqfcCFQAAAAAdAAAAABAD" />
-</a>
-
 ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 
 <br />
