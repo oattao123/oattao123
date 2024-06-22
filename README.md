@@ -5,7 +5,7 @@
 </p>
 
 <br />
-for work? do reach, [email](mailto:dceriythrrmkic@gmail.com) :)
+for  work? do reach, [email](mailto:dceriythrrmkic.work@gmail.com) :)
 
 Hi, I'm oattao, a passionate self-taught developer and Programmer from 
 thailand
