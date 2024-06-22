@@ -6,11 +6,11 @@
 
 <br />
 
-Hi, I'm [oattao](https://blog.abhisheknaidu.tech/), a passionate self-taught web developer and a freelance software engineer from 
+Hi, I'm [oattao](https://blog.abhisheknaidu.tech/), a passionate self-taught developer and Programmer from 
 thailand
-. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+. My passion for software lies with dreaming up ideas and making them come true 
 
-I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+I am also an open-source enthusiast. I learned a lot  and I love how collaboration and knowledge sharing .
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
@@ -26,26 +26,19 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **This Week I Spent My Time On:**
+📊 **This I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-Python       3 hrs 40 mins   ██████████████████░░░░░░░   72.55 % 
-JavaScript   1 hr 10 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.29 % 
-HTML         12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   4.16 % 
+Python       2 hrs 55 mins   ██████████████████░░░░░░░   52.55 % 
+JavaScript   1 hr 20 mins    ██████░░░░░░░░░░░░░░░░░░░   23.29 % 
+HTML         20 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   6.16 % 
+React        15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   3.00 % 
+Node.js      10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   2.00 % 
+C++          15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   7.50 % 
+MySQL        5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   1.75 % 
+Firebase     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   0.75 % 
+Git          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   1.00 % 
 ```
 <!--END_SECTION:waka-->
 
-If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
-🚧 **My Todoist Stats:**
-<!-- TODO-IST:START -->
-🏆  7,837 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 642 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
-
-
-📈 My GitHub Stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" /><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
