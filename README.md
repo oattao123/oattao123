@@ -1,6 +1,7 @@
 <p align="center">
   <a href="https://discord.gg/Aas9QMD5" alt="Discord" title="My-server">
-    <img src="[https://discord.c99.nl/widget/theme-1/600296744806514689.png](https://discord.c99.nl/widget/theme-1/980197281544433714.png)"></a>
+    <img src="[https://discord.c99.nl/widget/theme-1/980197281544433714.png](https://discord.c99.nl/widget/theme-1/980197281544433714.png)">
+  </a>
   </a>   
 </p>
 
