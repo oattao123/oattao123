@@ -6,7 +6,7 @@
 
 <br />
 
-Hi, I'm [oattao](https://blog.abhisheknaidu.tech/](https://github.com/oattao123?tab=repositories)), a passionate self-taught developer and Programmer from 
+Hi, I'm [oattao]((https://github.com/oattao123?tab=repositories)), a passionate self-taught developer and Programmer from 
 thailand
 . My passion for software lies with dreaming up ideas and making them come true 
 
