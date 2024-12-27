@@ -6,7 +6,7 @@
 </p>
 
 <br />
-for  work? do reach, dceriythrrmkic@gmail.com )
+for  work? do reach, dceriythrrmkic@gmail.com 
 
 Hi, I'm oattao, a passionate self-taught developer and Programmer from 
 thailand
